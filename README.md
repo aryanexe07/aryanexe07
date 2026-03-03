@@ -3,18 +3,7 @@
   <i>code. break. fix. repeat.</i>
 </p>
 
-<p align="center">
-  c / c++ / python / html / css / sql
-</p>
 
----
-
-```cpp
-while(alive) {
-    learn();
-    build();
-    improve();
-}
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/aryan._.t07) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/aryan-tailor) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:aryantailor.me@gmail.com) 
