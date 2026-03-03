@@ -1,4 +1,4 @@
-<h1 align="center">aryan</h1>
+<h1 align="center">Aryan</h1>
 <p align="center">
   <i>code. break. fix. repeat.</i>
 </p>
