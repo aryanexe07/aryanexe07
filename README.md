@@ -4,7 +4,7 @@
 </p>
 
 <p align="center">
-  c / c++ / python / java
+  c / c++ / python / html / css / sql
 </p>
 
 ---
