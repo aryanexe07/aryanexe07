@@ -1,4 +1,4 @@
-# [![Typing SVG](https://readme-typing-svg.demolab.com?font=Bitcount+Grid+Double&size=36&pause=1000&color=F7F7F7&width=435&lines=The+five+boxing+wizards+jump+quickly)](https://git.io/typing-svg)
+# [![Typing SVG](https://readme-typing-svg.demolab.com?font=Bitcount+Grid+Double&size=36&pause=1000&color=F7F7F7&width=435&lines=Hey!+I'm+Aryan)](https://git.io/typing-svg)
 
  Tech enthusiast exploring **AI + DSA**
  Building cool stuff, breaking things, and learning fast
