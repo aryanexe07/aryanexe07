@@ -5,6 +5,7 @@
 
 
  [![linkedin](https://imgs.search.brave.com/zznRIwY8jsCfAmGXQLW5Cxeg5JqPFrC_eVNgFm-ecOY/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvMDUxNWUyMDNk/NzU4MTRlYjBiNDUy/ZjRkNmUwMzNlYmRi/ZDRjMWFjMjAzZTM0/Yzc3YjJkYjQyYzdm/NWFiZjA5Mi9icmFu/ZC5saW5rZWRpbi5j/b20v)](https://www.linkedin.com/in/aryan-tailor/)
+[![Instagram](https://imgs.search.brave.com/kgdtgqUZQdNYzMKhbVXC5vthlFLPMJ0IOJAdFjEIRuk/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvN2RiYmJiZDA4/NTBkNWQ0ZmQ3NDE5/OGUxOGI4NzE5ZDI0/Zjk0M2ExMDkzZmJm/ODA0MmJiMzkwZjMy/ZDM4YWVkOS93d3cu/aW5zdGFncmFtLmNv/bS8)](https://www.instagram.com/aryan._.t07?igsh=MWdtNXQ5cDd0dnFoeA==)
 
 ---
 
