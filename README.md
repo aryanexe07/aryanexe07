@@ -33,13 +33,5 @@ Domains:     AI/ML | Problem Solving
 
 ![Streak](https://streak-stats.demolab.com?user=YOUR_USERNAME\&theme=tokyonight)
 
+*"Still figuring it out, but getting better every day."*
 
-⭐ *"Still figuring it out, but getting better every day."*
-
----
-
-## 🔥 Extras (optional but cool)
-
-![Visitor Count](https://komarev.com/ghpvc/?username=YOUR_USERNAME\&color=blue)
-
-![Trophies](https://github-profile-trophy.vercel.app/?username=YOUR_USERNAME\&theme=onedark)
