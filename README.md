@@ -4,7 +4,7 @@
  Building cool stuff, breaking things, and learning fast
 
 
- [![linkedin](https://imgs.search.brave.com/XATwlzvAygQOLcfSoq_DYROZoWQ9EqKT78TuJNdqAvY/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly9zdGF0/aWMudmVjdGVlenku/Y29tL3N5c3RlbS9y/ZXNvdXJjZXMvdGh1/bWJuYWlscy8wMjMv/OTg2LzU2OC9zbWFs/bC9saW5rZWRpbi1s/b2dvLWxpbmtlZGlu/LWxvZ28tdHJhbnNw/YXJlbnQtbGlua2Vk/aW4taWNvbi10cmFu/c3BhcmVudC1mcmVl/LWZyZWUtcG5nLnBu/Zw)](https://www.linkedin.com/in/aryan-tailor/)
+ [![linkedin](https://imgs.search.brave.com/zznRIwY8jsCfAmGXQLW5Cxeg5JqPFrC_eVNgFm-ecOY/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvMDUxNWUyMDNk/NzU4MTRlYjBiNDUy/ZjRkNmUwMzNlYmRi/ZDRjMWFjMjAzZTM0/Yzc3YjJkYjQyYzdm/NWFiZjA5Mi9icmFu/ZC5saW5rZWRpbi5j/b20v)](https://www.linkedin.com/in/aryan-tailor/)
 
 ---
 
