@@ -1,19 +1,22 @@
-# 👋 Hey, I'm Aryan
+# [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Hey!+I'm+Aryan)](https://git.io/typing-svg)
 
-🚀 Tech enthusiast exploring **AI + DSA**
-💻 Building cool stuff, breaking things, and learning fast
+ Tech enthusiast exploring **AI + DSA**
+ Building cool stuff, breaking things, and learning fast
 
----
 
-## 🧠 About Me
-
-* 🎯 Currently learning: AI/ML + DSA
-* ⚡ Interests: Hackathons, startups, building real-world projects
-* 🛠️ Languages: Python, C++, (learning more...)
+ [![linkedin](https://imgs.search.brave.com/ZtKciIPFtc5ZJmg268AwqSgwqDgv_vXXQKT3XOxZ5f4/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly93d3cu/bG9nby53aW5lL2Ev/bG9nby9MaW5rZWRJ/bi9MaW5rZWRJbi1J/Y29uLUxvZ28ud2lu/ZS5zdmc)](https://www.linkedin.com/in/aryan-tailor/)
 
 ---
 
-## 🧰 Tech Stack
+##  About Me
+
+*  Currently learning: AI/ML + DSA
+*  Interests: Hackathons, startups, building real-world projects
+*  Languages: Python, C++, (learning more...)
+
+---
+
+##  Tech Stack
 
 ```txt
 Languages:   Python | C++
@@ -33,22 +36,8 @@ Domains:     AI/ML | Problem Solving
 
 ---
 
-## 🧩 Featured Projects
 
-* 🚀 Project 1 — *short description*
-* ⚡ Project 2 — *short description*
-* 🧠 Project 3 — *short description*
 
----
-
-## 🌐 Connect With Me
-
-* LinkedIn: YOUR_LINK
-* Twitter/X: YOUR_LINK
-
----
-
-## 🎮 Fun Zone
 
 ```txt
 while(alive){
