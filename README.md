@@ -1,4 +1,4 @@
-# [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Hey!+I'm+Aryan)](https://git.io/typing-svg)
+# [![Typing SVG](https://readme-typing-svg.demolab.com?font=Bitcount+Grid+Double&size=36&pause=1000&color=F7F7F7&width=435&lines=The+five+boxing+wizards+jump+quickly)](https://git.io/typing-svg)
 
  Tech enthusiast exploring **AI + DSA**
  Building cool stuff, breaking things, and learning fast
@@ -9,7 +9,7 @@
 
 ---
 
-##  About Me
+## About Me
 
 *  Currently learning: AI/ML + DSA
 *  Interests: Hackathons, startups, building real-world projects
@@ -17,23 +17,22 @@
 
 ---
 
-##  Tech Stack
+## Tech Stack
 
 ```txt
-Languages:   Python | C++
+Languages:   Python | C++ | HTML | CSS | MYSQL | Firebase
 Tools:       Git | GitHub | VS Code
 Domains:     AI/ML | Problem Solving
 ```
 
 ---
 
-## 📊 GitHub Stats
+## GitHub Stats
 
 ![Stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME\&show_icons=true\&theme=tokyonight)
 
 ![Streak](https://streak-stats.demolab.com?user=YOUR_USERNAME\&theme=tokyonight)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME\&layout=compact\&theme=tokyonight)
 
 ---
 
@@ -48,8 +47,6 @@ while(alive){
     repeat();
 }
 ```
-
----
 
 ⭐ *"Still figuring it out, but getting better every day."*
 
