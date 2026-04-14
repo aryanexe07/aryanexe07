@@ -34,20 +34,6 @@ Domains:     AI/ML | Problem Solving
 ![Streak](https://streak-stats.demolab.com?user=YOUR_USERNAME\&theme=tokyonight)
 
 
----
-
-
-
-
-```txt
-while(alive){
-    eat();
-    code();
-    sleep();
-    repeat();
-}
-```
-
 ⭐ *"Still figuring it out, but getting better every day."*
 
 ---
