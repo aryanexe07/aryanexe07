@@ -10,7 +10,7 @@
 
 ## About Me
 
-*  Currently learning: AI/ML + DSA
+*  Currently learning: Python + Django + DSA
 *  Interests: Hackathons, startups, building real-world projects
 *  Languages: Python, C++, (learning more...)
 
