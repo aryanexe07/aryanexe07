@@ -24,9 +24,5 @@ Domains:     AI/ML | Problem Solving
 ```
 
 
-## GitHub Stats
-
-![Streak](https://streak-stats.demolab.com?user=YOUR_USERNAME\&theme=tokyonight)
-
 *"Still figuring it out, but getting better every day."*
 
