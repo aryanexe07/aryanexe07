@@ -15,7 +15,7 @@ jobs:
         with:
           github_user_name: aryanexe07
           outputs: |
-            dist/github-contribution-grid-snake.svg?color_snake=#00ff00
+            dist/github-contribution-grid-snake.svg?color_snake=#00ffcc&color_dots=#0f172a,#1e293b,#334155,#475569,#64748b
 
       - name: Push to output branch
         uses: crazy-max/ghaction-github-pages@v3
