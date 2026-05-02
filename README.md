@@ -27,6 +27,5 @@ Domains:     AI/ML | Problem Solving
 *"Still figuring it out, but getting better every day."*
 
 
-<img src="https://raw.githubusercontent.com/aryanexe07/aryanexe07/output/github-contribution-grid-snake.svg" />
 <img src="https://raw.githubusercontent.com/aryanexe07/aryanexe07/output/github-contribution-grid-snake.svg" alt="e" style="max-width: 100%;">
 
