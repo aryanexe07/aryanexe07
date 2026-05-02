@@ -26,3 +26,7 @@ Domains:     AI/ML | Problem Solving
 
 *"Still figuring it out, but getting better every day."*
 
+
+
+https://raw.githubusercontent.com/aryanexe07/snk/output-svg-only/github-contribution-grid-snake.svg
+
