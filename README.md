@@ -62,7 +62,7 @@ Domains:     AI/ML | Problem Solving
   <g clip-path="url(#cardClip)">
     <rect width="600" height="260" fill="#0b0d10"/>
 
-    <!-- BANNER: replace href with your banner image path/URL -->
+  
     <image href="assets/banner.png" x="0" y="0" width="600" height="140"
            preserveAspectRatio="xMidYMid slice"/>
     <rect x="0" y="0" width="600" height="140" fill="url(#bannerFade)"/>
