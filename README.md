@@ -42,4 +42,5 @@ Domains:     AI/ML | Problem Solving
   />
 </picture>
 
+<img src="card.svg" width="600" alt="aryanexe07" />
 
