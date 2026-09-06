@@ -26,6 +26,9 @@ Domains:     AI/ML | Problem Solving
 
 *"Still figuring it out, but getting better every day."*
 
-
-<img src="https://raw.githubusercontent.com/aryanexe07/aryanexe07/output/github-contribution-grid-snake.svg" alt="e" style="max-width: 100%;">
+<div align="center">
+<!-- <a href="https://discord.com/users/202740603790819328" > -->
+  <a href="https://egirl.ing/" >
+   <img src="https://lanyard.kyrie25.dev/api/202740603790819328?imgStyle=circle&animatedDecoration=true&hideProfile=false&showDisplayName=true&showBanner=animated&bannerFilter=blur(2px)%20brightness(0.8)&waveColor=transparent&gradient=7E37F9-B48EF7-E568C4&waveSpotifyColor=transparent&borderRadius=20px&hideStatus=true" />
+  </a>
 
