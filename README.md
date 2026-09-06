@@ -42,5 +42,5 @@ Domains:     AI/ML | Problem Solving
   />
 </picture>
 
-<img src="https://raw.githubusercontent.com/aryanexe07/aryanexe07/main/card.svg" width="660"/>
+<img src="https://raw.githubusercontent.com/aryanexe07/aryanexe07/main/card.gif" width="660"/>
 
