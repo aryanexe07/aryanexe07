@@ -26,21 +26,6 @@ Domains:     AI/ML | Problem Solving
 
 *"Still figuring it out, but getting better every day."*
 
-<picture>
-  <source
-    media="(prefers-color-scheme: dark)"
-    srcset="https://www.adamalston.com/observatory.svg"
-  />
-  <source
-    media="(prefers-color-scheme: light)"
-    srcset="https://www.adamalston.com/observatory.svg?theme=light"
-  />
-  <img
-    src="https://www.adamalston.com/observatory.svg"
-    alt="AA/O-01"
-    width="100%"
-  />
-</picture>
-
-<img src="https://raw.githubusercontent.com/aryanexe07/aryanexe07/main/card1.gif" width="520"/>
-
+<a href="https://aryan-exe.vercel.app/">
+  <img src="https://raw.githubusercontent.com/aryanexe07/aryanexe07/main/card.gif" width="520"/>
+</a>
