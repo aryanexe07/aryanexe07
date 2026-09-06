@@ -122,5 +122,5 @@ Domains:     AI/ML | Problem Solving
   </g>
 
   <rect x="1" y="1" width="598" height="258" rx="18" ry="18" fill="none" stroke="#ff4655" stroke-opacity="0.35" stroke-width="1.5"/>
-</svg>
 
+</svg>
