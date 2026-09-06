@@ -26,6 +26,22 @@ Domains:     AI/ML | Problem Solving
 
 *"Still figuring it out, but getting better every day."*
 
+<picture>
+  <source
+    media="(prefers-color-scheme: dark)"
+    srcset="https://www.adamalston.com/observatory.svg"
+  />
+  <source
+    media="(prefers-color-scheme: light)"
+    srcset="https://www.adamalston.com/observatory.svg?theme=light"
+  />
+  <img
+    src="https://www.adamalston.com/observatory.svg"
+    alt="AA/O-01"
+    width="100%"
+  />
+</picture>
+
 <svg width="600" height="260" viewBox="0 0 600 260" xmlns="http://www.w3.org/2000/svg">
   <defs>
     <clipPath id="cardClip">
