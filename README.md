@@ -25,4 +25,47 @@ Domains:     AI/ML | Problem Solving
 
 
 *"Still figuring it out, but getting better every day."*
-[![Discord Presence](https://lanyard.cnrad.dev/api/722292678376554509?theme=dark&showDisplayName=true&borderRadius=15px)](https://aryan-exe.vercel.app/)
+
+<div align="center">
+
+<!-- ═══════════════════════════════════════════════ -->
+<!--                 PROFILE CARD                  -->
+<!-- ═══════════════════════════════════════════════ -->
+
+<img
+  src="YOUR_CUSTOM_CARD_URL"
+  width="660"
+  alt="Aryan.exe Profile Card"
+/>
+
+<br>
+
+<!-- ═══════════════════════════════════════════════ -->
+<!--                    BADGES                     -->
+<!-- ═══════════════════════════════════════════════ -->
+
+<img src="https://img.shields.io/badge/AI%2FML-Builder-7c3aed?style=for-the-badge&logo=openai&logoColor=white">
+<img src="https://img.shields.io/badge/Full--Stack-Developer-06b6d4?style=for-the-badge&logo=react&logoColor=white">
+<img src="https://img.shields.io/badge/Next.js-TypeScript-black?style=for-the-badge&logo=next.js&logoColor=white">
+
+<br><br>
+
+<!-- ═══════════════════════════════════════════════ -->
+<!--                    LINKS                      -->
+<!-- ═══════════════════════════════════════════════ -->
+
+<a href="https://aryan-exe.vercel.app">
+  <img src="https://img.shields.io/badge/Portfolio-Visit-8b5cf6?style=for-the-badge">
+</a>
+
+<a href="https://www.linkedin.com">
+  <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white">
+</a>
+
+<a href="https://github.com">
+  <img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white">
+</a>
+
+</div>
+
+
