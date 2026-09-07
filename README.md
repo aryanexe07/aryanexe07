@@ -27,5 +27,5 @@ Domains:     AI/ML | Problem Solving
 *"Still figuring it out, but getting better every day."*
 
 <a href="https://aryan-exe.vercel.app/">
-  <img src="https://raw.githubusercontent.com/aryanexe07/aryanexe07/main/card1.gif" width="520"/>
+  <img src="https://raw.githubusercontent.com/aryanexe07/aryanexe07/main/card.gif" width="520"/>
 </a>
